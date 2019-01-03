@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+.id-card-wrapper {
+  height: 100vh;
+  width: 100%;
+  background-color: #122023;
+  display: flex;
+}
+
+.id-card {
+  border: 2px solid #0ae0df;
+  max-width: 30em;
+  margin: auto;
+  color: #fff;
+  padding: 1em;
+  flex-basis: 100%;
+}
+
+.profile-row {
+  display: flex;
+}
+
+.profile-row .dp {
+  flex-basis: 33.3%;
+}
+
+.profile-row .desc {
+  flex-grow: 66.6%;
+  padding: 1em;
+}
+
+.profile-row .dp img {
+  max-width: 100%;
+  border-radius: 50%;
+}
