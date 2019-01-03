@@ -15,4 +15,5 @@ body {
   margin: auto;
   color: #fff;
   padding: 1em;
+  flex-basis: 100%;
 }
