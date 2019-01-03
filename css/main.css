@@ -21,3 +21,11 @@ body {
 .profile-row {
   display: flex;
 }
+
+.profile-row .dp {
+  flex-basis: 33.3%;
+}
+
+.profile-row .desc {
+  flex-grow: 66.6%;
+}
