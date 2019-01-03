@@ -28,4 +28,10 @@ body {
 
 .profile-row .desc {
   flex-grow: 66.6%;
+  padding: 1em;
+}
+
+.profile-row .dp img {
+  max-width: 100%;
+  border-radius: 50%;
 }
