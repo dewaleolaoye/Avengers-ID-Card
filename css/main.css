@@ -17,3 +17,7 @@ body {
   padding: 1em;
   flex-basis: 100%;
 }
+
+.profile-row {
+  display: flex;
+}
